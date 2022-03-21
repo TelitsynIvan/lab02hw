@@ -11,3 +11,4 @@ int main(int argc, char* argv){
 	std::cout << "Hello world from " << name << endl;
 	return 0;
 }
+коля
